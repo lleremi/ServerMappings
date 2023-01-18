@@ -1,0 +1,33 @@
+{
+    "id": "hypermine",
+    "name": "HyperMine",
+    "store": "https://shop.hypermine.net/",
+    "description": "¡Juega ya con amigos en las últimas versiones!",
+    "addresses": [
+        "mc.hypermine.net"
+    ],
+    "primaryAddress": "mc.hypermine.net",
+    "primaryColor": "#F9A12C",
+    "secondaryColor": "#B85800",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "BedWars",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.hypermine.net",
+        "youtube": "HyperMine Network",
+        "tiktok": "hyperminetm"
+    }
+}
